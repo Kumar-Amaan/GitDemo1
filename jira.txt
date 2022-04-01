@@ -1,3 +1,16 @@
 ok
 ok ok ok
 Aman Kumar added
+
+
+
+
+kamran sir give a copy,repo give to aman
+aman give a branch that repo adarsh(changed)
+adarsh give a  clone/branch repo to shikhar
+
+
+adarsh changed some code in the develop branch
+Aman has the master branch
+
+1.Aman can merge that develop code with master
